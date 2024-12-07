@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import 'tw-elements';
+@import 'aos/dist/aos.css';
+
+html {
+    scroll-behavior: smooth;
+  }
