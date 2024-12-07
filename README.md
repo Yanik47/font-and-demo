@@ -1,4 +1,4 @@
-# WWW-UJ
+# dont-and? 
 
 Something between GeeksForGeeks and student systems like Pegaz. Looks beautiful, I painted everything myself. 
 
