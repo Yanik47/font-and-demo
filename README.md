@@ -1,6 +1,5 @@
 # Font-and?
 
-**Project Description:**  
 Font-and? is an interactive web platform developed as part of a web development course. The platform is designed for traffic arbitration aimed at promoting courses on success and self-development. The main page displays a list of all available courses, and each course has its own dedicated page with an interactive editor that allows users to tailor its content to their needs. The platform supports the creation, modification, and enrichment of courses.
 
 **Examples of Functional Components:**
