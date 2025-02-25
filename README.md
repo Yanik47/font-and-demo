@@ -89,3 +89,31 @@ Planned improvements for the project include:
 
 The platform is designed to serve both educational professionals and users seeking quick self-improvement solutions, while also offering robust tools for course creation and management. With planned future updates, Font-and? is poised to evolve into a more versatile and feature-rich solution in the field of online education.
 
+## Screenshots :)
+
+### Main Page
+![MainPage1](https://drive.google.com/uc?export=view&id=1jnFC3emTKhK48y7qfdIwvj8sBDdH6xne)
+![MainPage2](https://drive.google.com/uc?export=view&id=1vFXLuXelSubjROHKQWLc6OeCvmn-40UA)
+![MainPage3](https://drive.google.com/uc?export=view&id=10APGYkvpjpWX0b0ENoRlDWbjl2YzUiNG)
+
+### Profile 
+![ProfileInfo](https://drive.google.com/uc?export=view&id=1-lMnTsBS7p7pTApnfF084xgrZIpVugfX)
+![Calendar](https://drive.google.com/uc?export=view&id=1lmp75t963Lg2CeXPPKfcLrWk7FX8s93-)
+![Courses](https://drive.google.com/uc?export=view&id=1n5bs7lWuHM2yu3ujFFk50MjkoBrcJ0ST)
+
+### Course Info 
+![Kurs1](https://drive.google.com/uc?export=view&id=1dmeOc8PkGXlP7tqp0a2xs71ymYkIM1sT)
+![Kurs2](https://drive.google.com/uc?export=view&id=113Ky4MciE8bW1baxdpR6w-yuFN60s-rM)
+![Kurs3](https://drive.google.com/uc?export=view&id=1Uhz2nhcBu_EeFHkcIBX0AwQkQxUvvBYg)
+
+### Course
+![CoursePage](https://drive.google.com/uc?export=view&id=1dHGKCEz0naDC2aJxksYhU_Yeh_FccHQs)
+
+### Contact Us 
+![MainPage2](https://drive.google.com/uc?export=view&id=1gdPuFyIWLCso5wIvSlkXZj3SlcmfJZw1)
+
+### Create Course
+![Create Course](https://drive.google.com/uc?export=view&id=1XLnk7v_ijLnf3LwaGgmiL7WMLXQ3S1xn)
+
+### Login
+![Login](https://drive.google.com/uc?export=view&id=1mJgxQXbvbJDT6IypEWHVNdr4ZoiXInRX)
